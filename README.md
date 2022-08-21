@@ -20,7 +20,7 @@ Development Roadmap
 Why use sortYourTrip?
 - Set preferences for the preferred type of places to visit and commute options. 
 - sortYourTrip suggest top rated places and Include spots the user wants to visit.
-- YOu can customize Itinerary with places to visits and restaurants to try in the vicinity.
+- You can customize Itinerary with places to visits and restaurants to try in the vicinity.
 - Add the personalized itinerary to your calender so you remember it.
 - (Next release): Display hotels the users can book based on rating and distance.
 
